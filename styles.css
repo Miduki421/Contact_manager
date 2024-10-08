@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    max-width: 600px;
+    margin: auto;
+    padding-bottom: 20px;
+    text-align: center;
+}
+button{
+    margin: 10px;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #a3cef1;
+}
+
+.contact-list{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.contact-list li{
+list-style-type: none;
+padding: 5px;
+}
